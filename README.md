@@ -1,0 +1,1 @@
+This is an unpacker for Halo Spartan Assault and Halo Spartan Strike's BlueResource Container files. Thanks goes to the Lord(Christian) and to Blackandfan for helping with testing. The unpacker will unpack all files within the BlueResource container files and unpack them into seperate folders. 
